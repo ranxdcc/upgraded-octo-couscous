@@ -48,6 +48,12 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/createbigcannons/yaw_controller": {
+    "criteria": {
+      "has_cannon_mount": "2024-12-22 15:42:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/netherite_backtank": {
     "criteria": {
       "has_item": "2024-12-21 17:59:50 +0000"
@@ -96,9 +102,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-22 15:43:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2024-12-21 18:33:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-22 15:43:32 +0000"
     },
     "done": true
   },
@@ -117,6 +135,12 @@
   "create:recipes/create.base/crafting/logistics/pulse_repeater": {
     "criteria": {
       "has_item": "2024-12-21 18:33:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-22 15:43:32 +0000"
     },
     "done": true
   },
@@ -142,9 +166,27 @@
     },
     "done": true
   },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2024-12-22 15:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-22 15:43:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2024-12-21 18:33:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-22 15:43:32 +0000"
     },
     "done": true
   },
@@ -202,6 +244,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/linked_controller": {
+    "criteria": {
+      "has_item": "2024-12-22 15:55:06 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/createbigcannons/quickfiring_mechanism": {
     "criteria": {
       "has_lever": "2024-12-21 18:13:34 +0000"
@@ -214,9 +262,21 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/linked_transmitter_from_conversion": {
+    "criteria": {
+      "has_item": "2024-12-22 15:55:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-12-21 17:57:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-22 15:43:32 +0000"
     },
     "done": true
   },
@@ -286,6 +346,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-22 15:43:32 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/createbigcannons/casting_sand": {
     "criteria": {
       "has_sand": "2024-12-21 18:00:47 +0000"
@@ -301,6 +367,12 @@
   "create_connected:recipes/crafting/kinetics/crank_wheel": {
     "criteria": {
       "has_item": "2024-12-21 18:08:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-22 15:43:32 +0000"
     },
     "done": true
   },
@@ -424,9 +496,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-22 15:43:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2024-12-21 18:00:47 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/inverted_gearshift_from_conversion": {
+    "criteria": {
+      "has_item": "2024-12-22 15:50:47 +0000"
     },
     "done": true
   },
