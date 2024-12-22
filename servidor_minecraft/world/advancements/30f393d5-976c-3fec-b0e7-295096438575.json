@@ -120,6 +120,12 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/vertical_six_way_gearbox_from_conversion": {
+    "criteria": {
+      "has_item": "2024-12-22 16:55:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_honeycomb": {
     "criteria": {
       "has_cut_copper_slab": "2024-12-21 18:38:07 +0000"
