@@ -96,6 +96,12 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/createbigcannons/delayed_impact_fuze": {
+    "criteria": {
+      "has_impact_fuze": "2024-12-22 17:38:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/schedule": {
     "criteria": {
       "has_item": "2024-12-21 18:22:53 +0000"
