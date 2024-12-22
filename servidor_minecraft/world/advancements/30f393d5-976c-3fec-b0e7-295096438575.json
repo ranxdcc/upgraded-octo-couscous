@@ -216,6 +216,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2024-12-22 16:34:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/vertical_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2024-12-22 16:18:34 +0000"
@@ -372,6 +378,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2024-12-22 16:34:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/tiled_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2024-12-22 16:18:34 +0000"
@@ -396,6 +408,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2024-12-22 16:34:58 +0000"
+    },
+    "done": true
+  },
   "create_connected:recipes/crafting/kinetics/freewheel_clutch": {
     "criteria": {
       "has_item": "2024-12-21 18:08:47 +0000"
@@ -417,6 +435,12 @@
       "minecraft:plains": "2024-12-21 17:56:59 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2024-12-22 16:34:58 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
