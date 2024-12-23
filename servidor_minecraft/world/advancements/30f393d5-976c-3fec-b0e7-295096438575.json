@@ -12,6 +12,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-12-22 17:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-22 17:54:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-21 18:00:47 +0000"
@@ -81,6 +93,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-22 15:43:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-22 18:02:32 +0000"
     },
     "done": true
   },
@@ -210,6 +228,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-12-22 17:54:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2024-12-22 16:18:14 +0000"
@@ -240,6 +264,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2024-12-22 18:02:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/vertical_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2024-12-22 16:18:34 +0000"
@@ -255,6 +285,24 @@
   "createbigcannons:recipes/createbigcannons/casting_sand": {
     "criteria": {
       "has_sand": "2024-12-21 18:00:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-12-22 17:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-22 18:02:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-12-22 17:54:16 +0000"
     },
     "done": true
   },
@@ -276,6 +324,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-22 18:02:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-22 18:02:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/vertical_gearbox": {
     "criteria": {
       "has_item": "2024-12-21 18:08:47 +0000"
@@ -294,6 +354,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-22 18:02:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-21 18:13:47 +0000"
@@ -303,6 +369,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2024-12-21 18:33:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-22 18:02:32 +0000"
     },
     "done": true
   },
@@ -354,6 +426,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-12-22 18:02:32 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/createbigcannons/wrought_iron_drop_mortar_end": {
     "criteria": {
       "has_gunpowder": "2024-12-22 16:18:14 +0000"
@@ -363,6 +441,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-12-22 16:18:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-22 18:02:32 +0000"
     },
     "done": true
   },
@@ -426,6 +510,18 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-22 17:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-12-22 17:54:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2024-12-21 18:33:39 +0000"
@@ -441,6 +537,12 @@
   "create_connected:recipes/crafting/kinetics/freewheel_clutch": {
     "criteria": {
       "has_item": "2024-12-21 18:08:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-12-22 17:54:16 +0000"
     },
     "done": true
   },
@@ -472,6 +574,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-22 17:54:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2024-12-21 18:33:39 +0000"
@@ -496,9 +604,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-12-22 17:54:16 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/createbigcannons/cannon_mount": {
     "criteria": {
       "has_gunpowder": "2024-12-22 16:18:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-12-22 17:54:16 +0000"
     },
     "done": true
   },
@@ -517,6 +637,12 @@
   "create:shifting_gears": {
     "criteria": {
       "0": "2024-12-21 18:09:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-22 17:54:16 +0000"
     },
     "done": true
   },
@@ -541,6 +667,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2024-12-21 17:57:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-22 17:54:16 +0000"
     },
     "done": true
   },
@@ -571,6 +703,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2024-12-21 18:33:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-22 17:54:16 +0000"
     },
     "done": true
   },
@@ -629,6 +767,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2024-12-22 18:02:32 +0000"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2024-12-21 17:58:18 +0000"
@@ -677,6 +821,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-22 17:54:16 +0000"
+    },
+    "done": true
+  },
   "create_connected:recipes/crafting/kinetics/large_crank_wheel": {
     "criteria": {
       "has_item": "2024-12-21 18:08:48 +0000"
@@ -686,6 +836,12 @@
   "create_connected:recipes/crafting/kinetics/parallel_gearbox": {
     "criteria": {
       "has_item": "2024-12-21 18:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-22 18:02:32 +0000"
     },
     "done": true
   },
@@ -716,6 +872,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-21 18:00:47 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/createbigcannons/impact_fuze": {
+    "criteria": {
+      "has_impact_fuze_head": "2024-12-22 17:49:46 +0000"
     },
     "done": true
   },
