@@ -131,3 +131,7 @@
 [23Dec2024 17:06:37.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Farid_xd123: Set the weather to clear]
 [23Dec2024 17:10:01.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Farid_xd123: Set own game mode to Survival Mode]
 [23Dec2024 17:10:10.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Farid_xd123: Set own game mode to Creative Mode]
+[23Dec2024 17:19:03.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Farid_xd123: Set the time to 1000]
+[23Dec2024 17:19:11.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Farid_xd123: Set the weather to clear]
+[23Dec2024 17:19:20.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Farid_xd123 fell out of the world
+[23Dec2024 17:19:20.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Farid_xd123: Killed 193 entities]

@@ -845,6 +845,12 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/createbigcannons/autocannon_ammo_container": {
+    "criteria": {
+      "has_machine_gun_round": "2024-12-23 17:11:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/pulse_extender": {
     "criteria": {
       "has_item": "2024-12-21 18:33:39 +0000"
