@@ -7517,3 +7517,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Dec2024 17:19:20.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Farid_xd123: Killed 193 entities]
 [23Dec2024 17:21:06.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Dec2024 17:21:06.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 17:25:32.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Farid_xd123: Set the time to 1000]
+[23Dec2024 17:25:36.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Farid_xd123: Set the weather to clear]
+[23Dec2024 17:26:06.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 17:26:06.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 17:31:06.436] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 17:31:06.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 17:31:22.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Farid_xd123: Set the weather to clear]
