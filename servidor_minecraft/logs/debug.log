@@ -7453,3 +7453,16 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Dec2024 16:03:13.887] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Farid_xd123: Killed 175 entities]
 [23Dec2024 16:03:21.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Farid_xd123: Set the time to 1000]
 [23Dec2024 16:03:25.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Farid_xd123: Set the weather to clear]
+[23Dec2024 16:05:35.574] [Server thread/DEBUG] [mixin/]: Mixing itemsilo.MountedStorageMixin from create_connected.mixins.json into com.simibubi.create.content.contraptions.MountedStorage
+[23Dec2024 16:05:35.574] [Server thread/DEBUG] [mixin/]: create_connected.mixins.json:itemsilo.MountedStorageMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[23Dec2024 16:05:35.583] [Server thread/DEBUG] [mixin/]: Mixing FluidTransmitterOnContraptionMixin from createendertransmission.mixins.json into com.simibubi.create.content.contraptions.MountedFluidStorage
+[23Dec2024 16:05:35.583] [Server thread/DEBUG] [mixin/]: Mixing MountedFluidStorageMixin from createdieselgenerators.mixins.json into com.simibubi.create.content.contraptions.MountedFluidStorage
+[23Dec2024 16:05:35.627] [Server thread/DEBUG] [mixin/]: Mixing compat.create.ContraptionColliderMixin from createbigcannons-common.mixins.json into com.simibubi.create.content.contraptions.ContraptionCollider
+[23Dec2024 16:05:48.872] [Server thread/DEBUG] [mixin/]: Mixing copycat.stairs.StructureTransformMixin from create_connected.mixins.json into com.simibubi.create.content.contraptions.StructureTransform
+[23Dec2024 16:05:48.872] [Server thread/DEBUG] [mixin/]: create_connected.mixins.json:copycat.stairs.StructureTransformMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[23Dec2024 16:06:06.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 16:06:06.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 16:11:06.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 16:11:06.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 16:11:43.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Farid_xd123: Set the weather to clear]
+[23Dec2024 16:11:50.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Farid_xd123: Set the time to 1000]
