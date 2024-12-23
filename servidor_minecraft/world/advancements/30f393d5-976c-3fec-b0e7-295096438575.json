@@ -96,6 +96,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/white_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-12-23 17:09:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2024-12-22 15:43:32 +0000"
@@ -129,6 +135,12 @@
   "createbigcannons:recipes/createbigcannons/delayed_impact_fuze": {
     "criteria": {
       "has_impact_fuze": "2024-12-22 17:38:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/light_blue_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-12-23 17:09:18 +0000"
     },
     "done": true
   },
@@ -210,6 +222,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/blue_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-12-23 17:09:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/createbigcannons/wrought_iron_drop_mortar_end_mirrored": {
     "criteria": {
       "has_gunpowder": "2024-12-22 16:18:14 +0000"
@@ -237,6 +255,12 @@
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2024-12-22 15:43:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/light_gray_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-12-23 17:09:18 +0000"
     },
     "done": true
   },
@@ -276,6 +300,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/green_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-12-23 17:09:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2024-12-22 18:02:32 +0000"
@@ -294,6 +324,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/magenta_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-12-23 17:09:18 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/createbigcannons/casting_sand": {
     "criteria": {
       "has_sand": "2024-12-21 18:00:47 +0000"
@@ -309,6 +345,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-22 18:02:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/gray_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-12-23 17:09:18 +0000"
     },
     "done": true
   },
@@ -357,6 +399,18 @@
   "create:recipes/create.base/crafting/logistics/powered_toggle_latch": {
     "criteria": {
       "has_item": "2024-12-21 18:33:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/black_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-12-23 17:09:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/purple_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-12-23 17:09:18 +0000"
     },
     "done": true
   },
@@ -456,6 +510,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/orange_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-12-23 17:09:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2024-12-22 18:02:32 +0000"
@@ -534,6 +594,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/cyan_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-12-23 17:09:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2024-12-21 18:33:39 +0000"
@@ -601,6 +667,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2024-12-22 15:43:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/brown_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-12-23 17:09:18 +0000"
     },
     "done": true
   },
@@ -809,9 +881,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/yellow_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-12-23 17:09:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/vertical_gearboxfrom_conversion": {
     "criteria": {
       "has_item": "2024-12-21 18:46:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/lime_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-12-23 17:09:18 +0000"
     },
     "done": true
   },
@@ -836,6 +920,12 @@
   "createbigcannons:recipes/createbigcannons/cannon_carriage": {
     "criteria": {
       "has_gunpowder": "2024-12-22 16:18:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/red_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-12-23 17:09:18 +0000"
     },
     "done": true
   },
@@ -878,6 +968,12 @@
   "createbigcannons:recipes/createbigcannons/empty_powder_charge": {
     "criteria": {
       "has_gunpowder": "2024-12-22 16:18:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/pink_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-12-23 17:09:18 +0000"
     },
     "done": true
   },
