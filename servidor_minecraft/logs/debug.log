@@ -7475,3 +7475,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Dec2024 16:21:06.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [23Dec2024 16:23:54.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Farid_xd123: Set the weather to clear]
 [23Dec2024 16:24:01.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Farid_xd123: Set the time to 1000]
+[23Dec2024 16:26:06.435] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 16:26:06.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 16:29:42.146] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Farid_xd123: Set the weather to clear]
+[23Dec2024 16:29:46.003] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Farid_xd123> 7time set day
+[23Dec2024 16:31:06.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 16:31:06.463] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

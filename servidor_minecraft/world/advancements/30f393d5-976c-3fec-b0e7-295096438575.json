@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-23 16:29:32 +0000"
+    },
+    "done": true
+  },
   "create:wrench_goggles": {
     "criteria": {
       "0": "2024-12-22 15:35:36 +0000",
@@ -598,6 +604,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-23 16:29:32 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/createbigcannons/machine_gun_round": {
     "criteria": {
       "has_gunpowder": "2024-12-22 16:18:14 +0000"
@@ -643,6 +655,12 @@
   "create:shifting_gears": {
     "criteria": {
       "0": "2024-12-21 18:09:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-23 16:29:32 +0000"
     },
     "done": true
   },
