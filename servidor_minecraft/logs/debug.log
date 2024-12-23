@@ -7530,3 +7530,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Dec2024 17:37:15.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Farid_xd123: Set the time to 1000]
 [23Dec2024 17:41:06.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Dec2024 17:41:06.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 17:46:06.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 17:46:06.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 17:46:14.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Farid_xd123: Set the weather to clear]
+[23Dec2024 17:51:06.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 17:51:06.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 17:51:36.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Farid_xd123: Set the weather to clear]
+[23Dec2024 17:51:42.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Farid_xd123: Set the time to 1000]
