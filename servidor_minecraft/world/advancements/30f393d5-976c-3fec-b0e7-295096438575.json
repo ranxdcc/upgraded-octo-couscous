@@ -54,6 +54,12 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/inverted_clutch_from_conversion": {
+    "criteria": {
+      "has_item": "2024-12-23 17:38:09 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/createbigcannons/log_cannon_chamber": {
     "criteria": {
       "has_gunpowder": "2024-12-22 16:18:14 +0000"
@@ -156,6 +162,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2024-12-23 17:39:05 +0000"
+    },
+    "done": true
+  },
   "create:super_glue": {
     "criteria": {
       "0": "2024-12-22 15:44:36 +0000"
@@ -222,6 +234,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-12-23 17:39:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/blue_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2024-12-23 17:09:18 +0000"
@@ -261,6 +279,12 @@
   "create:recipes/create.palettes/crafting/kinetics/light_gray_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2024-12-23 17:09:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/oak_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-23 17:39:05 +0000"
     },
     "done": true
   },
@@ -351,6 +375,12 @@
   "create:recipes/create.palettes/crafting/kinetics/gray_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2024-12-23 17:09:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-23 17:39:05 +0000"
     },
     "done": true
   },
@@ -468,6 +498,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-23 17:39:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-23 17:39:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2024-12-21 18:00:47 +0000"
@@ -510,6 +552,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-23 17:39:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/orange_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2024-12-23 17:09:18 +0000"
@@ -543,6 +591,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:creeper": "2024-12-22 16:18:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-23 17:39:05 +0000"
     },
     "done": true
   },
@@ -706,9 +760,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-23 17:39:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-12-22 17:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-12-23 17:39:05 +0000"
     },
     "done": true
   },
@@ -739,6 +805,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-22 17:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-23 17:39:05 +0000"
     },
     "done": true
   },
@@ -917,6 +989,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-23 17:39:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-21 17:57:09 +0000"
@@ -992,6 +1070,12 @@
   "createbigcannons:recipes/createbigcannons/ram_head": {
     "criteria": {
       "has_cannon_loader": "2024-12-22 17:42:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-23 17:39:05 +0000"
     },
     "done": true
   },
